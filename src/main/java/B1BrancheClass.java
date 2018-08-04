@@ -1,7 +1,7 @@
 public class B1BrancheClass {
 
     void add(){
-        System.out.println("Future2");
+        System.out.println("future 1");
     }
 
 }
